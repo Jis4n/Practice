@@ -1,0 +1,7 @@
+E:\Vs\ConsolseGenericPractice\bin\Debug\ConsolseGenericPractice.exe.config
+E:\Vs\ConsolseGenericPractice\bin\Debug\ConsolseGenericPractice.exe
+E:\Vs\ConsolseGenericPractice\bin\Debug\ConsolseGenericPractice.pdb
+E:\Vs\ConsolseGenericPractice\obj\Debug\ConsolseGenericPracticeCreate.csprojAssemblyReference.cache
+E:\Vs\ConsolseGenericPractice\obj\Debug\ConsolseGenericPracticeCreate.csproj.CoreCompileInputs.cache
+E:\Vs\ConsolseGenericPractice\obj\Debug\ConsolseGenericPractice.exe
+E:\Vs\ConsolseGenericPractice\obj\Debug\ConsolseGenericPractice.pdb
